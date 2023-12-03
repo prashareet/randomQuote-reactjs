@@ -37,7 +37,7 @@ function App() {
 
       <button onClick={()=>{
         randomQuoteGenerator()
-      }}>Generate</button>
+      }}>Generate Random Quote</button>
     </>
   )
 }
